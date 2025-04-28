@@ -1,1 +1,1 @@
-/* Javascript pra home */
+/* Javascript para home */
